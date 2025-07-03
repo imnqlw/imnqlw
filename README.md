@@ -45,9 +45,8 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://tenor.com/ru/view/chat-devs-dev-keyboard-x-gif-7365336538228545026"  />
+<div align="right">
+  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"> 
 </div>
 
-###
+
