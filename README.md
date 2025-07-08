@@ -36,9 +36,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-###
-<div align="right">
-  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"> 
-</div>
+
+ ## 💻 Projects
+
+- 📚 [**Litres:**](https://github.com/imnqlw/litres-test)
+- 💼 [**HH:**](https://github.com/imnqlw/hh_python_project)
+
+
+
 
 
