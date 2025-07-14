@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/501ad51e-372f-49ba-90e1-cba18a81684e" height="40" alt="bash"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
@@ -34,6 +36,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/12bb3188-d6ba-4eb3-a020-a97b6f0c71dd" height="40" alt="TestRail"  />
+  <img width="12" />
+  <img src="https://github.com/imnqlw/hh_python_project/blob/master/img/appium1.png?raw=true" height="40" alt="appium"  />
+  <img width="12" />
+  <img src="https://github.com/imnqlw/hh_python_project/blob/master/img/img_22.png?raw=true" height="40" alt="allure"  />
+  <img width="12" />
+  
+
+  
+
+  
+ 
+  
+  
+
+
+
+  
+
 </div>
 
 
