@@ -63,6 +63,7 @@
 
 - 📚 [**Litres:**](https://github.com/imnqlw/litres-test)
 - 💼 [**HH:**](https://github.com/imnqlw/hh_python_project)
+- 📪 [**lenzaos**](https://github.com/imnqlw/lenzaos)
 
 
 
